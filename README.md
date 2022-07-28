@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepak Kumar Jha
-- 👀 I’m interested in web development, full stack developer, Python developer. 
-- 🌱 I’m currently learning React JS, Node JS & Django.
+- 👀 I’m interested in web development, full stack developer. 
+- 🌱 I’m currently learning Node JS.
 - 💞️ I’m looking to collaborate on new projects building, completing on time and satisfy user's requirement.
 - 📫 Reach me by E-mail- diwakerdeep@yahoo.com
 
